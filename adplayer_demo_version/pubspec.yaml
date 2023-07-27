@@ -1,0 +1,38 @@
+name: flutter_video_list_sample
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  path_provider: ^2.0.1
+  video_player: ^2.1.1
+  wakelock: ^0.5.1
+  qr_flutter: ^4.0.0
+  marquee: ^2.2.3
+  graphql_flutter: 5.1.1-beta.4
+  firebase_core: ^1.24.0
+  firebase_storage: ^10.3.10
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - embed/
+
+
