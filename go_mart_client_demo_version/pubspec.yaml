@@ -1,0 +1,129 @@
+name: go_mart_client
+description: A new Flutter project.
+
+
+version: 1.0.0+1
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  material_floating_search_bar: ^0.2.6
+  progress_state_button: ^1.0.4
+  qr_code_scanner: ^1.0.0
+  survey_kit: ^0.1.1
+  cupertino_icons: ^1.0.2
+  shared_preferences: ^2.0.15
+  sliding_up_panel: ^2.0.0+1
+  outline_gradient_button: ^2.0.0+1
+  sqflite: 2.0.0+3
+  path_provider: ^2.0.11
+  intl: 0.17.0
+  flutter_staggered_grid_view: 0.4.0
+  toggle_switch: ^2.0.1
+  flutter_dash: ^1.0.0
+  local_auth: ^2.1.2
+  circular_countdown_timer: ^0.2.2
+  uuid: ^3.0.6
+  carousel_slider: ^4.1.1
+  #easy_geofencing: ^0.2.0
+  geolocator: ^7.7.1
+  easy_geofencing:
+    path: ./easy_geofencing-0.2.0
+  firebase_core: ^1.21.0
+  firebase_auth: ^3.6.4
+  email_auth: ^1.0.0
+
+  geofence_service: ^3.4.8
+
+  flutter_local_notifications: 9.2.0
+  flutter_geofence: 0.4.4
+  flip_card: ^0.6.0
+  ntp: ^2.0.0
+  path: ^1.8.1
+  delayed_display: ^2.0.0
+  restart_app: ^1.1.0+1
+  pdfx: ^2.2.0
+
+  http: ^0.13.4
+  json_serializable: ^6.3.1
+  build_runner: ^2.2.0
+  graphql_flutter: 5.1.1-beta.4
+  flutter_spinkit: ^5.1.0
+  external_app_launcher: ^3.1.0
+  email_validator: ^2.1.17
+  provider: ^6.0.3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.4
+
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/images/product/
+    - assets/images/activity/
+    - assets/images/map/
+    - assets/privacyPolicy.txt
+    - assets/images/points.png
+
+  fonts:
+    - family: Noto Sans
+      fonts:
+        - asset: assets/fonts/.40415.otf
+          weight: 700
+        - asset: assets/fonts/.40409.otf
+    - family: .AppleSystemUIFont
+      fonts:
+        - asset: assets/fonts/SFNS.ttf
+    - family: Helvetica Now
+      fonts:
+        - asset: assets/fonts/HelveticaNowText-Regular.otf
+    - family:  CustomIcon
+      fonts:
+        - asset: fonts/CustomIcon.ttf
+    - family: icomoon
+      fonts:
+        - asset: fonts/icomoon.ttf
+
+
+module:
+
+    androidX: true
+

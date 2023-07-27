@@ -1,0 +1,657 @@
+隱私使用政策
+===============
+
+最後更新：2022 年 9 月 6 日
+
+本隱私政策描述了我們關於收集的政策和程序，
+當您使用服務並告訴您時使用和披露您的資料
+關於您的隱私權以及法律如何保護您的權益。
+
+我們使用您的個人數據來提供和改進服務。通過使用
+服務，您同意按照以下規定收集和使用資料
+本隱私使用政策。本隱私使用政策是由
+[隱私政策產生器](https://www.privacypolicies.com/privacy-policy-generator/）生成。
+
+解釋和定義
+
+===============================
+
+解釋
+--------------
+
+在以下條件下標題詞彙具有定義的含義。
+以下定義應具有相同效力無論它們是以單數還是複數形式出現。
+
+定義
+------------
+
+就本隱私政策而言：
+
+  * 帳戶是指為您創建的用於訪問我們的服務或
+    我們服務的一部分。
+
+  * 應用程序是指由本公司提供的下載的軟體程式
+    您在任何名為 GoMart 購物趣的電子設備上
+
+  * 公司（在本文中稱為“公司”、“我們”、“我們”或“我們的”協議）指 GoMart 購物趣。
+
+  * 國家指：台灣
+
+  * 設備是指可以訪問服務的任何設備，例如電腦、
+    手機或數位平板電腦。
+
+  * 個人數據是與已識別或
+    可識別的個人。
+
+  * 服務是指應用程式。
+
+  * 服務提供者是指處理數據的任何自然人或法人
+    代表公司。它是指第三方公司或
+    公司僱用的個人以促進服務，提供
+    代表公司執行與服務相關的服務
+    服務或協助公司分析如何使用服務。
+
+  * 使用數據是指自動收集的數據，無論是由
+    使用服務或從服務基礎設施本身（例如，
+    頁面訪問的持續時間）。
+
+  * 您是指訪問或使用服務的個人或公司，
+    或該個人所代表的其他法人實體訪問或
+    使用服務（如適用）。
+
+===============================
+
+收集和使用您的個人資料
+========================================
+
+收集的資料類型
+----------------------
+
+個人資料
+~~~~~~~~~~~~~
+
+在使用我們的服務時，我們可能會要求您向我們提供某些個人資料
+可用於聯繫或識別您的身份訊息。
+個人身份訊息可能包括但不限於：
+
+  * 電子郵件地址
+
+  * 使用資料
+
+
+使用資料
+~~~~~~~~~~
+
+使用服務時會自動收集使用資料。
+
+使用資料可能包括您設備的 網際網路 協議等訊息
+地址（例如 IP 地址）、瀏覽器類型、瀏覽器版本、我們的頁面
+您訪問的服務、訪問的時間和日期、花費的時間
+這些頁面、唯一的設備標識符和其他診斷資料。
+
+當您通過或通過移動設備訪問服務時，我們可能會自動收集
+某些資料，包括但不限於，類型
+您使用的移動設備、您的移動設備唯一 ID、您的 IP 地址
+移動設備，您的移動操作系統，移動網際網路的類型
+您使用的瀏覽器、唯一的設備標識符和其他診斷數據。
+
+我們還可能收集您的瀏覽器在訪問我們的網站時發送的資料
+服務或當您通過或通過移動設備訪問服務時收集您的資料。
+
+使用應用程式時收集的資料
+=======================
+
+在使用我們的應用程式時，為了提供我們的應用程式的功能，
+在您事先許可的情況下，我們可能會收集：
+
+  *有關您所在位置的資料
+
+  * 來自您設備的相機和照片庫的圖片和其他資料
+
+
+我們使用這些信息來提供我們服務的功能，以改進和定制我們的服務。該信息可能會上傳到公司的
+伺服器和/或服務提供商的伺服器，或者它可能只是存儲在您的設備。
+
+您可以隨時通過您的設備設置。
+
+使用您的個人資料
+-------------------------
+
+本公司可將個人資料用於以下目的：
+
+  * 提供和維護我們的服務，包括監控
+    我們的服務。
+
+  * 管理您的帳戶：管理您作為用戶的註冊
+    服務。您提供的個人資料可以讓您訪問不同的
+    您作為註冊用戶可以使用的服務功能
+    用戶。
+
+  * 為履行合約：開發、合規和
+    承擔產品、項目或服務的採購合約
+    您已通過服務購買或與我們簽訂任何其他合約。
+
+  * 聯繫您：通過電子郵件、電話、短信或其他方式聯繫您
+    等效形式的電子通信，例如手機
+    應用程序關於更新或信息的推送通知
+    與功能、產品或合同相關的通信
+    必要或合理的服務，包括安全更新實施。
+
+  * 為您提供新聞、特別優惠和一般訊息
+    我們提供的與這些類似的其他商品、服務和活動
+    您已經購買或詢問過的，除非您選擇了
+    不接收此類資料。
+
+  * 管理您的請求：出席和管理您對我們的請求。
+
+  * 對於業務轉移：我們可能會使用您的資料來評估或進行
+    合併、剝離、重組、重組、解散或
+    以其他方式出售或轉讓我們的部分或全部資產，無論是持續經營
+    關注或作為破產、清算或類似程序的一部分，在
+    我們持有的關於我們服務用戶的哪些個人資料屬於資產
+    轉移。
+
+  * 用於其他目的：我們可能會將您的資料用於其他目的，例如
+    作為數據分析，識別使用趨勢，確定有效性
+    我們的促銷活動以及評估和改進我們的服務，
+    產品、服務、營銷和您的體驗。
+
+我們可能會在以下情況下分享您的個人資料：
+
+  * 與服務提供商：我們可能會與您共享您的個人資料
+    服務提供商監控和分析我們服務的使用情況，以
+    聯繫你。
+  * 對於業務轉讓：我們可能會共享或轉讓您的個人資料
+    與公司的任何合併、出售有關或在談判期間
+    資產、融資或收購我們的全部或部分業務，以
+    另一家公司。
+  * 與關聯公司：我們可能會與我們的關聯公司共享您的資料，在
+    在這種情況下，我們將要求這些關聯公司遵守本隱私政策。
+    關聯公司包括我們的母公司和任何其他子公司，聯合
+    風險合作夥伴或我們控製或受其控制的其他公司
+    與我們共同控制。
+  * 與業務合作夥伴：我們可能會與我們的業務共享您的資料
+    合作夥伴向您提供某些產品、服務或促銷活動。
+  * 與其他用戶：當您分享個人訊息或以其他方式
+    在公共區域與其他用戶互動，此類資料可能是
+    由所有用戶查看，並可能在外部公開分發。
+  * 徵得您的同意：我們可能會出於任何目的披露您的個人資料
+    經您同意的其他目的。
+
+保留您的個人資料
+-------------------------------------------
+
+公司只會在必要時保留您的個人資料
+用於本隱私政策中規定的目的。我們將保留和使用您的
+遵守我們的法律義務所需的個人資料
+（例如，如果我們需要保留您的數據以遵守適用的法律）、解決糾紛並執行我們的法律協議和政策。
+
+公司還將保留使用資料用於內部分析。資料通常保留較短的時間，除非該資料
+用於加強安全性或改進我們的功能服務，或者我們有法律義務將這些資料保留更久的時間。
+
+傳輸您的個人資料
+------------------------------
+
+您的資料，包括個人數據，由公司處理
+營業辦公室和參與各方的任何其他地方
+處理位於。這表示這些資料可能會被轉移到——
+並在 — 位於您所在州、省、國家/地區以外的伺服器上進行維護
+或數據保護法可能不同的其他政府管轄區
+比您管轄範圍內的人。
+
+您同意本隱私政策，然後您提交此類資料代表您同意該轉讓。
+
+公司將採取一切合理必要的步驟，以確保您的資料
+根據本隱私政策得到安全處理，不得轉讓
+您的個人資料將發生在一個組織或一個國家，除非
+有適當的控制措施，包括您的資料的安全性和
+其他個人資料。
+
+披露您的個人資料
+--------------------------------
+
+商業交易
+~~~~~~~~~~~~~~~~~~~~~
+
+如果公司涉及合併、收購或資產出售，您的
+個人資料可能會被轉移。我們將在您的個人之前提供通知
+數據被傳輸並受制於不同的隱私政策。
+
+執法
+~~~~~~~~~~~~~~~
+
+在某些情況下，公司可能需要披露您的
+個人資料（如果法律要求或響應有效請求）
+公共當局（例如法院或政府機構）。
+
+其他法律要求
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+公司可能會真誠地披露您的個人資料
+有必要採取行動：
+
+  * 遵守法律義務
+  * 保護和捍衛公司的權利或財產
+  * 防止或調查與服務有關的可能的不當行為
+  * 保護服務使用者或公眾的人身安全
+  * 避免法律責任
+
+您個人資料的安全
+------------------------------
+
+您的個人數據的安全性對我們很重要，但請記住，透過網際網路傳輸的方法或電子存儲方法並不是100%安全的。
+雖然我們努力使用商業上可接受的方式來保護您的個人資料，我們無法保證其絕對安全。
+
+關於處理您的個人數據的詳細信息
+==================================================== ==========
+
+我們使用的服務提供商可能會訪問您的個人資料。這些第三方供應商將根據他們的隱私政策，收集、存儲、使用、處理和傳輸信息關於您在我們的服務上的活動。
+
+使用、性能和其他
+----------------------------------
+
+我們可能會使用第三方服務提供商來更好地改進我們的服務。
+
+  * Google Places
+
+    Google Places 是一項服務，它使用以下方式返回有關地點的信息
+    HTTP 請求。它由Google Inc.營運
+
+    Google Places 服務可能會出於安全目的收集您和您的設備上的資料。
+
+    Google Places 收集的資料是根據
+    Google隱私政策：
+    <https://www.google.com/intl/en/policies/privacy/>
+
+  * Firebase
+
+    Firebase 收集的信息是根據
+    Firebase隱私政策：
+    <https://firebase.google.com/support/privacy/>
+
+  * Hasura
+
+    Hasura 收集的信息是根據
+    Hasura隱私政策：
+    <https://hasura.io/legal/hasura-privacy-policy/>
+
+兒童隱私
+===================
+
+我們的服務不針對 13 歲以下的任何人。我們不會故意
+從 13 歲以下的任何人那裡收集個人身份信息。
+如果您是父母或監護人並且您知道您的孩子已經提供
+我們有個人資料，請聯繫我們。如果我們意識到我們有
+未經驗證從 13 歲以下的任何人處收集個人資料
+父母同意，我們會採取措施將其從我們的伺服器移除。
+
+如果我們需要依靠同意作為處理您的資料的法律依據
+並且您所在的國家/地區需要父母的同意，我們可能需要您父母的同意
+在我們收集和使用該資料之前同意。
+
+連結到其他網站
+========================
+
+我們的服務可能包含指向非我們運營的其他網站的連結。
+如果您點擊第三方連結，您將被引導至該第三方的
+地點。我們強烈建議您查看您訪問的每個網站的隱私政策。
+
+我們無法控制內容，隱私，也不承擔任何責任任何第三方網站或服務的政策或做法。
+
+本隱私政策的變更
+===============================
+
+我們可能會不時更新我們的隱私政策。我們將通知您任何通過在此頁面上發布新的隱私政策進行更改。
+
+我們將通過電子郵件和/或我們服務的顯著通知提前通知您本隱私政策更改生效並更新頂部的“上次更新”日期。
+
+建議您定期查看本隱私政策以了解任何更改。對本隱私政策的更改一經發布即生效。
+
+聯繫我們
+==========
+
+如果您對本隱私政策有任何疑問，您可以聯繫我們：
+
+  * 電子郵件：support@gomartdev.com
+
+
+
+
+Privacy Policy  
+==============
+
+Last updated: September 06, 2022
+
+This Privacy Policy describes Our policies and procedures on the collection,
+use and disclosure of Your information when You use the Service and tells You
+about Your privacy rights and how the law protects You.
+
+We use Your Personal data to provide and improve the Service. By using the
+Service, You agree to the collection and use of information in accordance with
+this Privacy Policy. This Privacy Policy has been created with the help of the
+[Privacy Policy Generator](https://www.privacypolicies.com/privacy-policy-
+generator/).
+
+Interpretation and Definitions  
+==============================
+
+Interpretation  
+--------------
+
+The words of which the initial letter is capitalized have meanings defined
+under the following conditions. The following definitions shall have the same
+meaning regardless of whether they appear in singular or in plural.
+
+Definitions  
+-----------
+
+For the purposes of this Privacy Policy:
+
+  * Account means a unique account created for You to access our Service or
+    parts of our Service.
+
+  * Application means the software program provided by the Company downloaded
+    by You on any electronic device, named GoMart購物趣
+
+  * Company (referred to as either "the Company", "We", "Us" or "Our" in this
+    Agreement) refers to GoMart購物趣.
+
+  * Country refers to: Taiwan
+
+  * Device means any device that can access the Service such as a computer, a
+    cellphone or a digital tablet.
+
+  * Personal Data is any information that relates to an identified or
+    identifiable individual.
+
+  * Service refers to the Application.
+
+  * Service Provider means any natural or legal person who processes the data
+    on behalf of the Company. It refers to third-party companies or
+    individuals employed by the Company to facilitate the Service, to provide
+    the Service on behalf of the Company, to perform services related to the
+    Service or to assist the Company in analyzing how the Service is used.
+
+  * Usage Data refers to data collected automatically, either generated by the
+    use of the Service or from the Service infrastructure itself (for example,
+    the duration of a page visit).
+
+  * You means the individual accessing or using the Service, or the company,
+    or other legal entity on behalf of which such individual is accessing or
+    using the Service, as applicable.
+
+
+Collecting and Using Your Personal Data  
+=======================================
+
+Types of Data Collected  
+-----------------------
+
+Personal Data  
+~~~~~~~~~~~~~
+
+While using Our Service, We may ask You to provide Us with certain personally
+identifiable information that can be used to contact or identify You.
+Personally identifiable information may include, but is not limited to:
+
+  * Email address
+
+  * Usage Data
+
+
+Usage Data  
+~~~~~~~~~~
+
+Usage Data is collected automatically when using the Service.
+
+Usage Data may include information such as Your Device's Internet Protocol
+address (e.g. IP address), browser type, browser version, the pages of our
+Service that You visit, the time and date of Your visit, the time spent on
+those pages, unique device identifiers and other diagnostic data.
+
+When You access the Service by or through a mobile device, We may collect
+certain information automatically, including, but not limited to, the type of
+mobile device You use, Your mobile device unique ID, the IP address of Your
+mobile device, Your mobile operating system, the type of mobile Internet
+browser You use, unique device identifiers and other diagnostic data.
+
+We may also collect information that Your browser sends whenever You visit our
+Service or when You access the Service by or through a mobile device.
+
+Information Collected while Using the Application  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+While using Our Application, in order to provide features of Our Application,
+We may collect, with Your prior permission:
+
+  * Information regarding your location
+
+  * Pictures and other information from your Device's camera and photo library
+
+
+We use this information to provide features of Our Service, to improve and
+customize Our Service. The information may be uploaded to the Company's
+servers and/or a Service Provider's server or it may be simply stored on Your
+device.
+
+You can enable or disable access to this information at any time, through Your
+Device settings.
+
+Use of Your Personal Data  
+-------------------------
+
+The Company may use Personal Data for the following purposes:
+
+  * To provide and maintain our Service , including to monitor the usage of
+    our Service.
+
+  * To manage Your Account: to manage Your registration as a user of the
+    Service. The Personal Data You provide can give You access to different
+    functionalities of the Service that are available to You as a registered
+    user.
+
+  * For the performance of a contract: the development, compliance and
+    undertaking of the purchase contract for the products, items or services
+    You have purchased or of any other contract with Us through the Service.
+
+  * To contact You: To contact You by email, telephone calls, SMS, or other
+    equivalent forms of electronic communication, such as a mobile
+    application's push notifications regarding updates or informative
+    communications related to the functionalities, products or contracted
+    services, including the security updates, when necessary or reasonable for
+    their implementation.
+
+  * To provide You with news, special offers and general information about
+    other goods, services and events which we offer that are similar to those
+    that you have already purchased or enquired about unless You have opted
+    not to receive such information.
+
+  * To manage Your requests: To attend and manage Your requests to Us.
+
+  * For business transfers: We may use Your information to evaluate or conduct
+    a merger, divestiture, restructuring, reorganization, dissolution, or
+    other sale or transfer of some or all of Our assets, whether as a going
+    concern or as part of bankruptcy, liquidation, or similar proceeding, in
+    which Personal Data held by Us about our Service users is among the assets
+    transferred.
+
+  * For other purposes : We may use Your information for other purposes, such
+    as data analysis, identifying usage trends, determining the effectiveness
+    of our promotional campaigns and to evaluate and improve our Service,
+    products, services, marketing and your experience.
+
+
+We may share Your personal information in the following situations:
+
+  * With Service Providers: We may share Your personal information with
+    Service Providers to monitor and analyze the use of our Service, to
+    contact You.
+  * For business transfers: We may share or transfer Your personal information
+    in connection with, or during negotiations of, any merger, sale of Company
+    assets, financing, or acquisition of all or a portion of Our business to
+    another company.
+  * With Affiliates: We may share Your information with Our affiliates, in
+    which case we will require those affiliates to honor this Privacy Policy.
+    Affiliates include Our parent company and any other subsidiaries, joint
+    venture partners or other companies that We control or that are under
+    common control with Us.
+  * With business partners: We may share Your information with Our business
+    partners to offer You certain products, services or promotions.
+  * With other users: when You share personal information or otherwise
+    interact in the public areas with other users, such information may be
+    viewed by all users and may be publicly distributed outside.
+  * With Your consent : We may disclose Your personal information for any
+    other purpose with Your consent.
+
+Retention of Your Personal Data  
+-------------------------------
+
+The Company will retain Your Personal Data only for as long as is necessary
+for the purposes set out in this Privacy Policy. We will retain and use Your
+Personal Data to the extent necessary to comply with our legal obligations
+(for example, if we are required to retain your data to comply with applicable
+laws), resolve disputes, and enforce our legal agreements and policies.
+
+The Company will also retain Usage Data for internal analysis purposes. Usage
+Data is generally retained for a shorter period of time, except when this data
+is used to strengthen the security or to improve the functionality of Our
+Service, or We are legally obligated to retain this data for longer time
+periods.
+
+Transfer of Your Personal Data  
+------------------------------
+
+Your information, including Personal Data, is processed at the Company's
+operating offices and in any other places where the parties involved in the
+processing are located. It means that this information may be transferred to —
+and maintained on — computers located outside of Your state, province, country
+or other governmental jurisdiction where the data protection laws may differ
+than those from Your jurisdiction.
+
+Your consent to this Privacy Policy followed by Your submission of such
+information represents Your agreement to that transfer.
+
+The Company will take all steps reasonably necessary to ensure that Your data
+is treated securely and in accordance with this Privacy Policy and no transfer
+of Your Personal Data will take place to an organization or a country unless
+there are adequate controls in place including the security of Your data and
+other personal information.
+
+Disclosure of Your Personal Data  
+--------------------------------
+
+Business Transactions  
+~~~~~~~~~~~~~~~~~~~~~
+
+If the Company is involved in a merger, acquisition or asset sale, Your
+Personal Data may be transferred. We will provide notice before Your Personal
+Data is transferred and becomes subject to a different Privacy Policy.
+
+Law enforcement  
+~~~~~~~~~~~~~~~
+
+Under certain circumstances, the Company may be required to disclose Your
+Personal Data if required to do so by law or in response to valid requests by
+public authorities (e.g. a court or a government agency).
+
+Other legal requirements  
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+The Company may disclose Your Personal Data in the good faith belief that such
+action is necessary to:
+
+  * Comply with a legal obligation
+  * Protect and defend the rights or property of the Company
+  * Prevent or investigate possible wrongdoing in connection with the Service
+  * Protect the personal safety of Users of the Service or the public
+  * Protect against legal liability
+
+Security of Your Personal Data  
+------------------------------
+
+The security of Your Personal Data is important to Us, but remember that no
+method of transmission over the Internet, or method of electronic storage is
+100% secure. While We strive to use commercially acceptable means to protect
+Your Personal Data, We cannot guarantee its absolute security.
+
+Detailed Information on the Processing of Your Personal Data  
+============================================================
+
+The Service Providers We use may have access to Your Personal Data. These
+third-party vendors collect, store, use, process and transfer information
+about Your activity on Our Service in accordance with their Privacy Policies.
+
+Usage, Performance and Miscellaneous  
+------------------------------------
+
+We may use third-party Service Providers to provide better improvement of our
+Service.
+
+  * Google Places
+
+    Google Places is a service that returns information about places using
+    HTTP requests. It is operated by Google
+
+    Google Places service may collect information from You and from Your
+    Device for security purposes.
+
+    The information gathered by Google Places is held in accordance with the
+    Privacy Policy of Google:
+    <https://www.google.com/intl/en/policies/privacy/>
+
+  * Firebase
+
+    Their Privacy Policy can be viewed at
+    <https://firebase.google.com/support/privacy>
+
+  * Hasura
+
+    Their Privacy Policy can be viewed at <https://hasura.io/legal/hasura-privacy-policy/>
+
+Children's Privacy  
+==================
+
+Our Service does not address anyone under the age of 13. We do not knowingly
+collect personally identifiable information from anyone under the age of 13.
+If You are a parent or guardian and You are aware that Your child has provided
+Us with Personal Data, please contact Us. If We become aware that We have
+collected Personal Data from anyone under the age of 13 without verification
+of parental consent, We take steps to remove that information from Our
+servers.
+
+If We need to rely on consent as a legal basis for processing Your information
+and Your country requires consent from a parent, We may require Your parent's
+consent before We collect and use that information.
+
+Links to Other Websites  
+=======================
+
+Our Service may contain links to other websites that are not operated by Us.
+If You click on a third party link, You will be directed to that third party's
+site. We strongly advise You to review the Privacy Policy of every site You
+visit.
+
+We have no control over and assume no responsibility for the content, privacy
+policies or practices of any third party sites or services.
+
+Changes to this Privacy Policy  
+==============================
+
+We may update Our Privacy Policy from time to time. We will notify You of any
+changes by posting the new Privacy Policy on this page.
+
+We will let You know via email and/or a prominent notice on Our Service, prior
+to the change becoming effective and update the "Last updated" date at the top
+of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes.
+Changes to this Privacy Policy are effective when they are posted on this
+page.
+
+Contact Us  
+==========
+
+If you have any questions about this Privacy Policy, You can contact us:
+
+  * By email: support@gomartdev.com
+
